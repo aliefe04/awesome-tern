@@ -78,6 +78,9 @@ sections:
     - name: tern-mizu
       url: https://github.com/ITSyndicate25/tern-mizu
       description: Paints the Mizu Icons VS Code file icon theme over the Files pane, with 893 icons covering 847 file names, 947 extensions and 1457 folder names.
+    - name: tern-worktrees
+      url: https://github.com/aliefe04/tern-worktrees
+      description: Adds palette commands that create a git worktree on a new branch with an agent tab, and remove the focused worktree only when it is clean and merged into the default branch.
   - title: Official examples
     blurb: These examples ship with the official [SDK archive](https://docs.stencil.so/tern/tern-sdk.tar.gz). They are a good starting point if you are writing your own plugin.
     sort: manual
